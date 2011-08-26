@@ -10,7 +10,7 @@ WriteMakefile
                    'File::Path' => '2.08',
                    'File::Spec' => 0,
                    'File::Spec::Functions' => 0,
-                   'KinoSearch' => '0.311',
+                   'Lucy' => '0.002001',
                    'Module::Build' => '0.30',
                    'Test::More' => '0.96'
                  },
